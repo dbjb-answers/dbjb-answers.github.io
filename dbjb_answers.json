@@ -1,0 +1,241 @@
+[
+	{
+		"id" : 1,
+		"name" : "Escape to Earth",
+		"answers" : {
+			"num4" : "5839",
+			"num3" : "711",
+			"2words" : "BLAST OFF",
+			"word7" : "SURVIVE"
+		}
+	},
+	{
+		"id" : 2,
+		"name" : "Overthrowing the Co-Dictatorship",
+		"answers" : {
+			"num5" : "10994",
+			"num3" : "169",
+			"word7" : "CHANGES",
+			"date" : "05/06/1937"
+		}
+	},
+	{
+		"id" : 3,
+		"name" : "Beware the Witch",
+		"answers" : {
+			"num5" : "10015",
+			"num4" : "3249",
+			"word4" : "HEAD",
+			"date" : "03/01/1692"
+		}
+	},
+	{
+		"id" : 4,
+		"name" : "Evil Dr Elgoog",
+		"answers" : {
+			"num4" : "5235",
+			"num5" : "75433",
+			"word5" : "ATARI",
+			"date" : "09/32/2014"
+		}
+	},
+	{
+		"id" : 5,
+		"name" : "Stranded on the Island",
+		"answers" : {
+			"num5" : "339933",
+			"num4" : "2369",
+			"word8" : "NAUTICAL",
+			"date" : "03/11/1995",
+			"time" : "09:32"
+		}
+	},
+	{
+		"id" : 6,
+		"name" : "San Diego Vacation",
+		"answers" : {
+			"num5" : "92109",
+			"num4" : "3280",
+			"word5" : "FIERI",
+			"date" : "07/09/2004"
+		}
+	},
+	{
+		"id" : 7,
+		"name" : "Og's Great Adventure",
+		"answers" : {
+			"num4" : "4363",
+			"word9" : "DINOSNORE",
+			"dir" : "RDRUR",
+			"col" : "OPGB"
+		}
+	},
+	{
+		"id" : 8,
+		"name" : "Alzatraz Night Escape",
+		"answers" : {
+			"num5" : "58877",
+			"num4" : "1259",
+			"word7" : "BIRDMAN",
+			"word5" : "KELLY",
+			"date" : "07/21/1945",
+			"dir" : "URDRUL"
+		}
+	},
+	{
+		"id" : 9,
+		"name" : "Stuck in the Eighties",
+		"answers" : {
+			"num3" : "707",
+			"num7" : "5552368",
+			"word5" : "VANNA",
+			"word10" : "CHALLENGER",
+			"date" : "06/18/1985",
+			"dir" : "DLDLUU"
+		}
+	},
+	{
+		"id" : 10,
+		"name" : "The Lost Ticket",
+		"answers" : {
+			"num4" : "6174",
+			"word6" : "CINEMA",
+			"col" : "RBGW",
+			"date" : "04/10/2014",
+			"time" : "12:10",
+			"usd" : "15.20"
+		}
+	},
+	{
+		"id" : 11,
+		"name" : "A Spicy Mystery",
+		"answers" : {
+			"num5" : "48201",
+			"dir" : "RDLRUL",
+			"word7" : "IMPASTA",
+			"date" : "05/04/2009",
+			"time" : "05:13"
+		}
+	},
+	{
+		"id" : 12,
+		"name" : "Measuring the Mystery",
+		"answers" : {
+			"num3" : "877",
+			"num4" : "3420",
+			"word6" : "ANDERS",
+			"dir" : "URRLD"
+		}
+	},
+	{
+		"id" : 13,
+		"name" : "Find the Redstone",
+		"answers" : {
+			"num4" : "4175",
+			"num8" : "ADMINIUM",
+			"dir" : "LDURL",
+			"col" : "RPVGO"
+		}
+	},
+	{
+		"id" : 14,
+		"name" : "Open the Pool",
+		"answers" : {
+			"num4" : "6973",
+			"word8" : "CHLORINE",
+			"dir" : "DUDLRD",
+			"date" : "08/21/2004"
+		}
+	},
+	{
+		"id" : 15,
+		"name" : "You're Our Hope",
+		"answers" : {
+			"num4" : "9355",
+			"word8" : "ROCKSTAR",
+			"word7" : "ARTEMIS",
+			"dir" : "DRDRURDLD"
+		}
+	},
+	{
+		"id" : 16,
+		"name" : "Moriarty Strikes Again",
+		"answers" : {
+			"num5" : "47584",
+			"word9" : "ANALYZING",
+			"date" : "07/01/1881",
+			"time" : "02:09",
+			"dir" : "RULRD"
+		}
+	},
+	{
+		"id" : 17,
+		"name" : "Get to the Keynote",
+		"answers" : {
+			"num5" : "58423",
+			"word5" : "DRIVE",
+			"date" : "06/07/2013",
+			"dir" : "LDLUR"
+		}
+	},
+	{
+		"id" : 18,
+		"name" : "Abducted by Aliens",
+		"answers" : {
+			"num4" : "3974",
+			"word7" : "QUASARS",
+			"col" : "YBYBPBY",
+			"note9" : "DFACEEDGAF"
+		}
+	},
+	{
+		"id" : 20,
+		"name" : "Catch the Bus",
+		"answers" : {
+			"num4" : "1358",
+			"word7" : "FRIZZLE",
+			"dir" : "RULULR",
+			"col" : "BRYG"
+		}
+	},
+	{
+		"id" : 21,
+		"name" : "National Park Adventure Tour",
+		"answers" : {
+			"num4" : "1550",
+			"dir" : "UUDURL",
+			"date" : "08/25/1916",
+			"word9" : "HALEAKALA"
+		}
+	},
+	{
+		"id" : 23,
+		"name" : "Trapped in our Classroom",
+		"answers" : {
+			"col" : "BGPYO",
+			"date" : "04/14/2017",
+			"num5" : "14576",
+			"dir" : "RLURLD",
+			"word8" : "GEOMETRY"
+		}
+	},
+	{
+		"id" : 24,
+		"name" : "A Noble Table",
+		"answers" : {
+			"word10" : "HeLiCoPtEr",
+			"col" : "GRPB",
+			"dir" : "DRULD",
+			"num3" : "112"
+		}
+	},
+	{
+		"id" : 25,
+		"name" : "Chlora and Phyll",
+		"answers" : {
+			"word5" : "PHOTO",
+			"dir" : "ULRDU",
+			"date" : "12271866"
+		}
+	}
+]
